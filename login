@@ -10,7 +10,6 @@ ls -lt
 echo "long list of files and directories with reverse order"
 ls -ltr
 echo "Display first 10 lines of files"
-cd /
 mkdir tester
 cd tester
 vi file1
